@@ -11,3 +11,11 @@ wget http://www.cs.toronto.edu/~rkiros/models/uni_skip.npz.pkl
 wget http://www.cs.toronto.edu/~rkiros/models/bi_skip.npz
 wget http://www.cs.toronto.edu/~rkiros/models/bi_skip.npz.pkl
 ```
+
+```
+mkdir en
+cd en
+
+http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz
+```
+
