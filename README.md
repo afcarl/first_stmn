@@ -18,4 +18,8 @@ cd en
 
 http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz
 ```
+```
+python wmemnn.py en/qa5_three-arg-relations_train.txt
+python wmemnn.py en/qa5_short_train.txt
+```
 
